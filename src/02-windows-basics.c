@@ -1,3 +1,6 @@
+/**
+ * Program to test out different variations of printw.
+ */
 #include <ncurses.h>
 
 int main()
